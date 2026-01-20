@@ -10,8 +10,8 @@ connection path between two actors using Breadth-First Search (BFS).
 - Note: Dataset files are excluded from this repository due to size.
 
 ### Dataset Size
-- Actors: 100,000+
-- Movies: 10,000+
+- Actors: 1044499
+- Movies: 344276
 
 ## Approach
 - Formulated as a graph search problem
